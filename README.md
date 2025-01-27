@@ -21,7 +21,7 @@ This repository will eventually include the following features:
     * Seaborn
     * Plotly 
     
-* **Environments:** *(Google Colab, Jupter Notebooks.)*
+* **Environments:** *(Google Colab, Jupyter Notebooks.)*
 
 
 
