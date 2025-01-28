@@ -4,7 +4,7 @@ This repository contains materials for various data science lessons. It's design
 
 ## Features and Functionality
 
-This repository will eventually include the following features:
+This repository will eventually includes the following features:
 
 * (e.g., Introduction to Pandas, including data manipulation and cleaning examples.). This will use Pandas and potentially NumPy.*
 * Specific Lesson 2]:** *(e.g., Exploratory Data Analysis (EDA) with Matplotlib and Seaborn, showcasing data visualization techniques)*
