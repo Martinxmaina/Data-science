@@ -1,7 +1,6 @@
 # Data-science
 
-This repository contains materials for various data science lessons. It's designed to be a comprehensive resource for learning and practicing data science techniques. Because no specific code was provided, this README will outline a general structure and best practices for a data science repository. You will need to populate the specifics based on your actual project files.
-
+This repository contains materials for various data science lessons. It's designed to be a comprehensive resource for learning and practicing data science techniques.
 ## Features and Functionality
 
 This repository includes the following features:
